@@ -13,7 +13,8 @@ Establish a lightweight, repeatable edge-learning workflow using the Beryl AX to
 
 **What surprised me**
 - Access control was enforced entirely by interface/SSID, not device identity.
-- Switching Wi-Fi networks instantly changed what resources I could reach, without logging in or out.
+- Simply switching Wi-Fi networks instantly changed what infrastructure I could reach, without logging in or out.
+
 
 **What changed in my thinking**
 - Management access is about *where* you connect from, not *who* you are.
